@@ -1,3 +1,3 @@
-http://backend.course/andriy59b
+http://backend.course#andriy59b
 http://backend.course?name=Andriy%20Pentsak&github_name=andriy59b&group=%D0%A4%D0%95%D0%86-25&subgroup=%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%202
 https://bank.gov.ua/NBUStatService/v1/statdirectory/basindbank?date=20200601&period=m&json
